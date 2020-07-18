@@ -1,1 +1,1 @@
-# EPAM_JAVASCRIPT
+# HomeTask_JavaScript
